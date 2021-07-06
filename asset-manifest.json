@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quadria/static/css/main.f251e27e.chunk.css",
+    "main.js": "/quadria/static/js/main.4d64e41c.chunk.js",
+    "main.js.map": "/quadria/static/js/main.4d64e41c.chunk.js.map",
+    "runtime-main.js": "/quadria/static/js/runtime-main.28d12ace.js",
+    "runtime-main.js.map": "/quadria/static/js/runtime-main.28d12ace.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/quadria/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/quadria/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/quadria/index.html",
+    "precache-manifest.2d501d871cf4c3b8dfcb6ff5b8323e7d.js": "/quadria/precache-manifest.2d501d871cf4c3b8dfcb6ff5b8323e7d.js",
+    "service-worker.js": "/quadria/service-worker.js",
+    "static/css/main.f251e27e.chunk.css.map": "/quadria/static/css/main.f251e27e.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/quadria/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d12ace.js",
+    "static/js/2.2eaf0afe.chunk.js",
+    "static/css/main.f251e27e.chunk.css",
+    "static/js/main.4d64e41c.chunk.js"
+  ]
+}
